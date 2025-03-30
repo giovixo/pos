@@ -1,0 +1,6 @@
+# Manual deployment
+jekyll build
+# git checkout --orphan gh-pages
+git add -f _site
+git commit -m "Deploy static site"
+git push origin gh-pages --force
