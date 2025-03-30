@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pills of Science
+title: Pills of Science (aka Pills)
 email: giovanni.decesare@inaf.it giulia.stratta@inaf.it ...
 description: >- # this means to ignore newlines until "baseurl:"
   This site report the list of contributions given at the Pills of Science meetings. Maintained by Giovanni De Cesare.
