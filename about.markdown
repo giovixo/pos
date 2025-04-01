@@ -12,3 +12,14 @@ L'utilizzo di slides è benvenuto ma non obbligatorio, mentre la tradizione impo
 **Pills Of Science** si riunisce il mercoledì alle 14:30 - OAS/CNR - terzo piano - stanza 505
 
 E' possibile partecipare anche da remoto (su richiesta). Ecco il link: [meet.google.com/sub-qcnc-sjm](meet.google.com/sub-qcnc-sjm)
+
+Gli incontri sono organizzati da:
+
+* Fabrizio Cogato
+* Giovanni De Cesare
+* Nicola Masetti 
+* Mauro Orlandini 
+* Andrea Rossi  
+* Giulia Stratta 
+
+
