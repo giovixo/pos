@@ -5,7 +5,7 @@ date: 2025-04-02 11:54:21 +0100
 categories: blog
 ---
 
-![Image]({{"/images/pigeon.jpeg",  | relative_url }})
+![Image]({{"/images/pigeon.jpeg"  | relative_url }})
 
 Con l'aiuto di alcuni estratti dal video della cerimonia di assegnazione dei premi del 34th First Annual Ig Nobel Prize ceremony, Nicola Masetti ci ha parlato delle ricerche improbabili dei 10 vincitori ([https://improbable.com/](https://improbable.com/)). Qui alcuni link legati all'evento: 
 
