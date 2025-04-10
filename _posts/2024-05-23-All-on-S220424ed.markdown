@@ -1,0 +1,11 @@
+---
+layout: post
+title: "S220424ed"
+date: 2024-05-23 11:54:21 +0100
+categories: blog
+---
+Oggi abbiamo parlato della scoperta della prima sorgente di onde gravitazionali associata ad un sistema binario formato da una stella di neutroni ed un buco nero, scoperta il 22 marzo 2024 ([S220424ed](https://gracedb.ligo.org/superevents/S240422ed/view/)), durante la seconda parte del quarto run osservativo di LIGO e Virgo (O4b). In particolare abbiamo messo in evidenza come, non ostante la vasta campagna osservativa [con più di 90 circolari GCN](https://gcn.nasa.gov/circulars?query=S240422ed&startDate=&endDate=) e l'ottima copertura dell'area di localizzazione della sorgente, ad oggi nessun candidato sembra essere particolarmente promettente come controparte elettromagnetica. 
+
+Inoltre, abbiamo parlato della nuova missione [Einstein Probe](https://arxiv.org/abs/2209.09763), in orbita da gennaio 2024, ed abbiamo analizzato l'impatto che l'[elevato numero di transienti X](https://gcn.nasa.gov/circulars?query=%22Einstein+Probe%22&startDate=&endDate=&sort=circularID) non identificati sta avendo sulle campagne osservative multi-banda dei GRB e delle sorgenti di onde gravitazionali. 
+
+Infine abbiamo discusso dei sistemi di finanziamento dell'INAF e possibili sviluppi, oltre che alla situazione dell'Osservatorio di Loiano. 
