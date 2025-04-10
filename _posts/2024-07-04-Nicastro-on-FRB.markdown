@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fast Radio Transients"
+title: "Fast Radio Bursts"
 date: 2024-07-04 11:54:21 +0100
 categories: blog
 ---
