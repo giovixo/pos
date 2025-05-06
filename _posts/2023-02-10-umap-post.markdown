@@ -1,0 +1,17 @@
+---
+layout: post
+title: Astroanomaly
+date: 2023-02-10
+categories: blog
+---
+* Attività di OAS sul monte Cimone di cui ci ha parlato Enrico Virgili
+* Giovanni De Cesare ha introdotto il software *Astronomaly* e ha descritto l'algoritmo *UMAP*
+
+Paper: [https://arxiv.org/abs/2010.11202](https://arxiv.org/abs/2010.11202) 
+
+Codice: [https://github.com/MichelleLochner/astronomaly](https://github.com/MichelleLochner/astronomaly)
+
+Video introduttivo: [https://www.youtube.com/watch?v=vyU0gJFiFxA](https://www.youtube.com/watch?v=vyU0gJFiFxA) 
+
+[https://umap-learn.readthedocs.io/en/latest/basic_usage.html#penguin-dat](https://umap-learn.readthedocs.io/en/latest/basic_usage.html#penguin-data)
+
