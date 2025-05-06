@@ -1,0 +1,9 @@
+---
+layout: post
+title: GRB 221009A
+date: 2023-03-31
+categories: blog
+---
+* Accenno al libro di Rovelli sui Buchi Bianchi by Fabrizio Cogato
+* Discussione sul [GRB 221009A](https://arxiv.org/abs/2303.16223) per cui è stata vista una riga di emissione a circa 10 MeV durante la prompt emission, totalmente inaspettata e mai vista finora in nessun altro GRB by Giulia Stratta 
+
