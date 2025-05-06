@@ -1,0 +1,8 @@
+---
+layout: post
+title: esperimento MOEDAL al CERN
+date: 2023-06-29
+categories: blog
+---
+Giuseppe Levi ci ha parlato dell'esperimento MOEDAL al CERN,  e degli algoritmi utilizzati per il riconoscimento di specifichi segnali dovuti a monopoli magnetici in immagini di LHC
+
