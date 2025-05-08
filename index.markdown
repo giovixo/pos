@@ -6,5 +6,4 @@ layout: home
 list_title: Pills
 ---
 
-
 ![Image]({{"/images/exoplanets.jpg"  | relative_url }})
