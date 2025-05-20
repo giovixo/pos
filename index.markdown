@@ -6,4 +6,4 @@ layout: home
 list_title: Pills
 ---
 
-![Image]({{"/images/cyber-cat-andy.png"  | relative_url }})
+![Image]({{"/images/cyber-cat.png"  | relative_url }})
