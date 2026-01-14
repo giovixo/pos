@@ -5,7 +5,7 @@ date: 2025-12-17
 categories: blog
 ---
 
-![Image]({{"/images/big-bang.jpg"  | relative_url }})
+![Image]({{"/images/big-bang-balls.webp"  | relative_url }})
 
 Insieme ad Alessandro Gruppuso abbiamo discusso l'articolo di Ethan Siegel pubblicato nel suo blog e reperibile al link: [https://bigthink.com/starts-with-a-bang/evidence-universe-before-big-bang](https://bigthink.com/starts-with-a-bang/evidence-universe-before-big-bang])
 
