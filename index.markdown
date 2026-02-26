@@ -6,4 +6,8 @@ layout: home
 list_title: Pills
 ---
 
+**Pills Of Science** si riunisce il mercoledì alle 11:30 - OAS/CNR - terzo piano - stanza 505 
+
+E’ possibile partecipare anche da remoto (su richiesta): [meet.google.com/sub-qcnc-sjm](meet.google.com/sub-qcnc-sjm)
+
 ![Image]({{"/images/cyber-cat.png"  | relative_url }})
