@@ -12,4 +12,4 @@ Vuoi essere aggionato sui prossimi incontri? Per iscriverti alla mailing list ba
 
 E’ possibile partecipare anche da remoto (su richiesta): [meet.google.com/sub-qcnc-sjm](https://meet.google.com/sub-qcnc-sjm)
 
-![Image]({{"/images/cyber-cat.png"  | relative_url }})
+![Image]({{"/images/funny-cat.png"  | relative_url }})
