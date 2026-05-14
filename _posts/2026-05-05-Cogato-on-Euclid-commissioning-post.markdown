@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Euclid commissioning results, the near infrared spectrometer and photometer (NISP) signal detection chain
+title: Risultati della fase di commissioning di Euclid, la catena di rilevazione del segnale dello spettrometro e fotometro nel vicino infrarosso (NISP)
 date: 2026-05-05
 categories: blog
 ---
